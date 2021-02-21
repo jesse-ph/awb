@@ -1,5 +1,8 @@
 # tic-tac-toe-awb
 
+### deployed in:
+https://awb-tic-tac-toe.netlify.app/
+
 ## Project setup
 ```
 npm install
